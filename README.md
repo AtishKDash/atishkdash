@@ -11,6 +11,7 @@ As I journey towards becoming a data-driven Cybersec Technical Project Manager, 
 
 E-mail: adash2@buffalo.edu | atish.dash.7@gmail.com
 
+<h3>Professional Certifications:</h3>
 
 <h3>Connect with me:</h3>
 
