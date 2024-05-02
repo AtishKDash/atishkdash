@@ -9,6 +9,8 @@ Beyond the professional realm, I'm an avid reader with a penchant for non-fictio
 
 As I journey towards becoming a data-driven Cybersec Technical Project Manager, I'm eager to leverage my diverse expertise, analytical acumen, and communication skills to drive impactful projects from inception to execution. Let's connect and discuss more!
 
+E-mail: adash2@buffalo.edu | atish.dash.7@gmail.com
+
 
 <h2>Connect with me:</h2>
 
