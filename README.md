@@ -10,17 +10,13 @@ Beyond the professional realm, I'm an avid reader with a penchant for non-fictio
 As I journey towards becoming a data-driven Cybersec Technical Project Manager, I'm eager to leverage my diverse expertise, analytical acumen, and communication skills to drive impactful projects from inception to execution. Let's connect and discuss more!
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/atish_dash7
+[linkedin]: https://www.linkedin.com/in/atish-dash/
 
 <!--
 **AtishKDash/atishkdash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
