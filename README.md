@@ -1,4 +1,13 @@
-### Hi there, I am Atish Kumar Dash! 👋
+### Hi there, I am Atish Kumar Dash!
+Hi there! I'm Atish, currently immersed in my Master of Science (MS) journey, specializing in Management Information Systems (MIS) at the University at Buffalo. My focus revolves around IT Program/Project Management and Analytics, areas where I aim to make significant contributions.
+
+With over six years of enriching experience post-MBA, I've navigated through diverse roles within Program Business Analysis, spanning sectors like Consumer-Packaged Goods (CPG) and e-Commerce/Retail. My journey has been about driving digital transformations, touching upon IT Strategic Transformation, Governance, Risk Management, and Digital Analytics, particularly in the U.K./E.U. region.
+
+My academic foundation includes an MBA from Xavier Institute of Management, Bhubaneswar (XIMB), and a Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering from I.T.E.R., Bhubaneswar.
+
+Beyond the professional realm, I'm an avid reader with a penchant for non-fiction, especially titles covering science, technology, business, and biographies. Writing is another passion, and I find joy in delving into tech-focused podcasts and indulging in alternative rock music.
+
+As I journey towards becoming a data-driven IT Program/Project Manager, I'm eager to leverage my diverse expertise, analytical acumen, and communication skills to lead impactful projects from inception to fruition. If you believe my profile aligns with your team's vision, I'd love to connect!
 
 <!--
 **AtishKDash/atishkdash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
