@@ -3,7 +3,7 @@ Specializing in Management Information Systems (MIS) at the <a href="https://www
 
 With ~6 years of experience post-MBA, I've navigated through diverse roles within Technical Project Management, spanning sectors like Consumer-Packaged Goods (CPG) and e-Commerce/Retail. My journey has been about driving digital transformations, touching upon IT Strategic Transformation, Agile Methodologies, Cybersecurity, Governance, Compliance, Risk Management, and Digital Analytics.
 
-My academic foundation includes an MBA from <a href="https://ximb.edu.in/">Xavier Institute of Management, Bhubaneswar (XIMB)</a>!, and a Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering from <a href="https://www.soa.ac.in/iter">I.T.E.R., Bhubaneswar</a>.
+My academic foundation includes an MBA from <a href="https://ximb.edu.in/">Xavier Institute of Management, Bhubaneswar (XIMB)</a>, and a Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering from <a href="https://www.soa.ac.in/iter">I.T.E.R., Bhubaneswar</a>.
 
 Beyond the professional realm, I'm an avid reader with a penchant for non-fiction, especially titles covering science, technology, business, and biographies. Writing is another passion, and I find joy in delving into tech-focused podcasts and indulging in alternative rock music.
 
