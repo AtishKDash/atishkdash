@@ -21,7 +21,8 @@ E-mail: adash2@buffalo.edu | atish.dash.7@gmail.com
 - <a href="https://www.credly.com/badges/83f3a6d6-f576-42d4-95aa-068ecdcc912c/public_url">Professional Scrum Master™ I (PSM I)</a>
 
 <h3>Personal Projects:</h3>
-- <b>Wireshark: Capture Packets</b>: Wireshark for Beginners: Capture Packets
+- <b>Wireshark</b>: Wireshark for Beginners: Capture Packets
+- <b>Digital Product Management</b>: Next-Gen Carbon Footprint Tracking Platform Pitch Deck
 
 
 <h3>Connect with me:</h3>
