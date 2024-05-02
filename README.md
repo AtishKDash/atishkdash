@@ -13,7 +13,10 @@ E-mail: adash2@buffalo.edu | atish.dash.7@gmail.com
 
 <h3>Professional Certifications:</h3>
 - <a href="https://www.credly.com/badges/806882bf-57d7-41d6-8418-4ca75e2faa92/public_url">Project Management Professional (PMP)® Certification</a> </br>
-- 2
+- <a href="https://www.coursera.org/account/accomplishments/specialization/2WA68DAZL4UC">Google Project Management Specialization</a> </br>
+- <a href="https://myhbp.org/hmm12/resources/badges/project_management/en/badge_project_management.html">Harvard ManageMentor Project Management</a></br>
+- <a href="https://www.credly.com/badges/17211251-2153-431d-8acd-4c7214747105/public_url">Professional Scrum Product Owner™ I (PSPO I)</a></br>
+- <a href="https://www.credly.com/badges/83f3a6d6-f576-42d4-95aa-068ecdcc912c/public_url">Professional Scrum Master™ I (PSM I)</a>
 
 <h3>Connect with me:</h3>
 
