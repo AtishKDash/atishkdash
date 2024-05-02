@@ -1,4 +1,4 @@
-### Hi there, <a href="https://github.com/joshmadakor1">Atish Kumar Dash</a>!
+### Hi there, <a href="https://www.linkedin.com/in/atish-dash/">Atish Kumar Dash</a>!
 Specializing in Management Information Systems (MIS) at the University at Buffalo, I am currently immersed in my MS journey, primarily focusing on Technical Project Management, Cybersecurity, and Data analytics.
 
 With ~6 years of experience post-MBA, I've navigated through diverse roles within Technical Project Management, spanning sectors like Consumer-Packaged Goods (CPG) and e-Commerce/Retail. My journey has been about driving digital transformations, touching upon IT Strategic Transformation, Agile Methodologies, Cybersecurity, Governance, Risk Management, and Digital Analytics.
