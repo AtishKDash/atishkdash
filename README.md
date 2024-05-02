@@ -12,7 +12,7 @@ As I journey towards becoming a data-driven Cybersec Technical Project Manager, 
 E-mail: adash2@buffalo.edu | atish.dash.7@gmail.com
 
 <h3>Professional Certifications:</h3>
-- <a href="https://www.credly.com/earner/earned/badge/0c7e4087-a5a8-49b1-a839-ee2e34c3e4c5">Project Management Professional (PMP)® Certification</a> </br>
+- <a href="https://www.credly.com/badges/806882bf-57d7-41d6-8418-4ca75e2faa92/public_url">Project Management Professional (PMP)® Certification</a> </br>
 - 2
 
 <h3>Connect with me:</h3>
