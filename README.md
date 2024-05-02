@@ -22,6 +22,8 @@ E-mail: adash2@buffalo.edu | atish.dash.7@gmail.com
 
 <h3>Personal Projects:</h3>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <h3>Connect with me:</h3>
 
