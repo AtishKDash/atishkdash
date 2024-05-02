@@ -12,8 +12,8 @@ As I journey towards becoming a data-driven Cybersec Technical Project Manager, 
 E-mail: adash2@buffalo.edu | atish.dash.7@gmail.com
 
 <h3>Professional Certifications:</h3>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <a href="https://www.credly.com/earner/earned/badge/0c7e4087-a5a8-49b1-a839-ee2e34c3e4c5">Project Management Professional (PMP)® Certification</a> </br>
+- 2
 
 <h3>Connect with me:</h3>
 
