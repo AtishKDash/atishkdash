@@ -1,7 +1,7 @@
 ### Hi there, I am Atish Kumar Dash!
 Specializing in Management Information Systems (MIS) at the University at Buffalo, I am currently immersed in my MS journey, primarily focusing on Technical Project Management, Cybersecurity, and Data analytics.
 
-With ~6 years of enriching experience post-MBA, I've navigated through diverse roles within Technical Project Management, spanning sectors like Consumer-Packaged Goods (CPG) and e-Commerce/Retail. My journey has been about driving digital transformations, touching upon IT Strategic Transformation, Agile Methodologies, Cybersecurity, Governance, Risk Management, and Digital Analytics.
+With ~6 years of experience post-MBA, I've navigated through diverse roles within Technical Project Management, spanning sectors like Consumer-Packaged Goods (CPG) and e-Commerce/Retail. My journey has been about driving digital transformations, touching upon IT Strategic Transformation, Agile Methodologies, Cybersecurity, Governance, Risk Management, and Digital Analytics.
 
 My academic foundation includes an MBA from Xavier Institute of Management, Bhubaneswar (XIMB), and a Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering from I.T.E.R., Bhubaneswar.
 
