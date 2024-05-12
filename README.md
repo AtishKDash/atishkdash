@@ -15,6 +15,7 @@ E-mail: adash2@buffalo.edu | atish.dash.7@gmail.com
 - <a href="https://www.credly.com/badges/806882bf-57d7-41d6-8418-4ca75e2faa92/public_url">Project Management Professional (PMP)® Certification</a> </br>
 - <a href="https://www.credly.com/badges/e01fe9f3-0931-4b41-b912-92d0e845de3e/public_url">CompTIA Security+ (SY0-701)</a> </br>
 - <a href="https://learn.microsoft.com/en-us/users/atishkumardash/credentials/9605e68d0762f06b">Microsoft Azure Fundamentals: AZ-900</a> </br>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/2WA68DAZL4UC">Google Cybersecurity Professional Certificate</a> </br>
 - <a href="https://www.udacity.com/certificate/e/fdf49212-a27b-11ee-a2e1-a7ac78774bd1">Udacity: Product Management Nanodegree</a> </br>
 - <a href="https://www.coursera.org/account/accomplishments/specialization/2WA68DAZL4UC">Google Project Management Specialization</a> </br>
 - <a href="https://myhbp.org/hmm12/resources/badges/project_management/en/badge_project_management.html">Harvard ManageMentor Project Management</a></br>
