@@ -25,7 +25,7 @@ E-mail: adash2@buffalo.edu | atish.dash.7@gmail.com
 <h3>Personal Projects:</h3>
 - <b>Wireshark</b>: Wireshark for Beginners: Capture Packets [Link]</br>
 - <b>MGS625: Management of IT Projects </b>[<a href="https://github.com/AtishKDash/MGS625">Link</a>]</br>
-- <b>Digital Product Management</b>: Next-Gen Carbon Footprint Tracking Platform: Pitch Deck [<a href="https://github.com/AtishKDash/CarbonFootprintPlatform">GitHub Repo Link</a>]
+- <b>MGS635: Digital Product Management</b>: Next-Gen Carbon Footprint Tracking Platform: Pitch Deck [<a href="https://github.com/AtishKDash/CarbonFootprintPlatform">GitHub Repo Link</a>]
 
 
 <h3>Connect with me:</h3>
