@@ -1,7 +1,7 @@
 ### Hi there, I am <a href="https://www.linkedin.com/in/atish-dash/">Atish Kumar Dash</a>!
-Specializing in Management Information Systems (MIS) at the <a href="https://www.buffalo.edu/">University at Buffalo</a>, I am currently pursuing my MS academic journey, primarily focusing on Technical Project Management, Cybersecurity, and Data analytics.
+Specializing in Management Information Systems (MIS) at the <a href="https://www.buffalo.edu/">University at Buffalo</a>, I am currently pursuing my MS academic journey, primarily focusing on Data Anlytics and DAta Science.
 
-With ~6 years of experience post-MBA, I've navigated through diverse functional areas within Technical Project Management, spanning sectors like Consumer-Packaged Goods (CPG) and e-Commerce/Retail. My journey has been about driving digital transformations, touching upon IT Risk Management, Agile Methodologies, Cybersecurity, Governance, Compliance, and Digital Analytics.
+With ~6 years of experience post-MBA, I've navigated through diverse functional areas within Technical Business Analsysis, Data Analytics, and Technical Project Management, spanning sectors like Consumer-Packaged Goods (CPG) and e-Commerce/Retail. My journey has been about driving digital transformations, touching uponAgile Methodologies and Digital Analytics.
 
 My academic foundation includes an MBA from <a href="https://ximb.edu.in/">Xavier Institute of Management, Bhubaneswar (XIMB)</a>, and a Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering from <a href="https://www.soa.ac.in/iter">I.T.E.R., Bhubaneswar</a>.
 
@@ -23,7 +23,6 @@ E-mail: adash2@buffalo.edu | atish.dash.7@gmail.com
 - <a href="https://www.credly.com/badges/83f3a6d6-f576-42d4-95aa-068ecdcc912c/public_url">Professional Scrum Master™ I (PSM I)</a>
 
 <h3>Personal Projects:</h3>
-- <b>Wireshark</b>: Wireshark for Beginners: Capture Packets [Link]</br>
 - <b>MGS625: Management of IT Projects </b>[<a href="https://github.com/AtishKDash/MGS625">Link</a>]</br>
 - <b>MGS635: Digital Product Management</b>: Next-Gen Carbon Footprint Tracking Platform: Pitch Deck [<a href="https://github.com/AtishKDash/CarbonFootprintPlatform">GitHub Repo Link</a>]
 
