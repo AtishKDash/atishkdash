@@ -7,7 +7,7 @@ My academic foundation includes an MBA from <a href="https://ximb.edu.in/">Xavie
 
 Beyond the professional realm, I'm an avid reader with a penchant for non-fiction, especially titles covering science, technology, business, and biographies. Writing is another passion, and I find joy in delving into tech-focused podcasts and indulging in alternative rock music.
 
-As I journey towards becoming a data-driven Cybersecurity Technical Project/Program Manager, I'm eager to leverage my diverse expertise, analytical acumen, and communication skills to drive impactful projects from inception to execution. Let's connect and discuss more!
+As I journey towards becoming a Business/Data Analyst, I'm eager to leverage my diverse expertise, analytical acumen, and communication skills to drive impactful projects from inception to execution. Let's connect and discuss more!
 
 E-mail: adash2@buffalo.edu | atish.dash.7@gmail.com
 
